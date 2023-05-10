@@ -1,4 +1,4 @@
-# Stock Market - Frontend
+# Stock Market - Frontend 
 
 ## Overview
 This project is designed to represent and visualize the stock prices from Yahoo Finance given a period of time.
